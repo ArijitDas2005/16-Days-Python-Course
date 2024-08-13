@@ -219,9 +219,3 @@ while not finish_program:
     elif menu == 6:
         # end code
         finish_program = True
-
-
-
-
-
-
