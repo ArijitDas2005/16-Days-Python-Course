@@ -24,12 +24,6 @@ import os
 
 
 
-
-
-
-
-
-
 from pathlib import Path
 
 folder= Path("C:/Users/HP/OneDrive/Desktop/Alternate Folder")/'another_file.txt'
